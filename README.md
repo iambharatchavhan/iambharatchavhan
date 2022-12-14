@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @iambharatchavhan
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning  Full Stack JavaScript 
+- 🌱 I’m currently learning  Full Stack JavaScript web development
 - 📫 How to reach me [Linkden](https://www.linkedin.com/in/bharat-chavhan-563a881ba)
 
 <!---
