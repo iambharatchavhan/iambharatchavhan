@@ -15,7 +15,7 @@ Bharat</a></h1>
 
 - 🌱 I’m currently learning  ExpressJS  <a href="" target="blank">Youtube</a>
 
-- 📝 I regularly write articles on [https://bharatchavhan.hashnode.dev]()
+- 📝 I regularly write articles on [--]()
 
 - 💬 Ask me about **Vanilla JS & React-JS**
 
