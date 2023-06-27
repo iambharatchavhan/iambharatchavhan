@@ -9,26 +9,26 @@ Bharat</a></h1>
 
 
 
-- 🌱 I’m currently Working on Ed-tech website(React-JS)
+- 🌱 I’m currently Working on Ed-tech Application(React-JS)
 
 - 🤝 I’m available for freelancing.
 
-- 🌱 I’m currently learning  ExpressJS  <a href="" target="blank">PW-Skills</a>
+- 🌱 I’m currently learning  ExpressJS  <a href="" target="blank">Youtube</a>
 
-- 📝 I regularly write articles on [https://bharatchavhan.hashnode.dev](bharatchavhan.hashnode.dev)
+- 📝 I regularly write articles on [https://bharatchavhan.hashnode.dev]()
 
 - 💬 Ask me about **Vanilla JS & React-JS**
 
-- 📫 How to reach me **bharatchavhan141@gmail.com**
+- 📫 How to reach me **bharat.chavhan.edu@gmail.com**
 
-- 📄 Know about my experiences <a href="" target="blank">Resume</a>
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1tDYAAO4ee-M8jkWt7PvhQ8Z6TAfk4Q5n/view?usp=drive_link" target="blank">Resume</a>
 <br/>
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
 <p align="center">
 
  <div align="center"  class="icons-social" style="margin-left: 10px;">
-        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/bharat-chavhan-563a881ba">
+        <a style="margin-left: 10px;"  target="_blank" href="">
 			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
         <a style="margin-left: 10px;" target="_blank" href="https://github.com/iambharatchavhan">
 		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
@@ -46,23 +46,6 @@ Bharat</a></h1>
 </p>
 
 ### Blogs posts
-
-<!-- BLOG-POST-LIST:START -->
-
-- [HTML ..How Long Does it Take to Learn?](https://bharatchavhan.hashnode.dev/html-how-long-does-it-take-to-learn)
-    
-- [CSS selectors: - The perfect way to learn CSS.](https://bharatchavhan.hashnode.dev/css-selectors-the-perfect-way-to-learn-css)
-
-- [:nth-child() All you need to know.](https://bharatchavhan.hashnode.dev/nth-child-all-you-need-to-know)
-       
-- [No, CSS positions are not hard to learn.](https://bharatchavhan.hashnode.dev/no-css-positions-are-not-hard-to-learn) 
-
-- [CSS Flexbox: Learn at least these properties](https://bharatchavhan.hashnode.dev/css-flexbox-learn-at-least-these-properties)
-
-- [CSS Grid = mobile gallery](https://bharatchavhan.hashnode.dev/css-grid-mobile-gallery)
-
-- [Javascript Array methods(Best Known)](https://bharatchavhan.hashnode.dev/javascript-array-methods)
-<!-- BLOG-POST-LIST:END -->
 
 ---
 
