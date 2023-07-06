@@ -13,7 +13,7 @@ Bharat</a></h1>
 
 - 🤝 I’m available for freelancing.
 
-- 🌱 I’m currently learning  ExpressJS  <a href="" target="blank">Youtube</a>
+- 🌱 I’m currently learning Back-end From  <a href="" target="blank">Youtube</a>
 
 - 📝 I regularly write articles on [--]()
 
