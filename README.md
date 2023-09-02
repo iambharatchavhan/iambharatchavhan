@@ -21,7 +21,7 @@ Bharat</a></h1>
 
 - 📫 How to reach me **bharat.chavhan.1026@gmail.com**
 
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1tDYAAO4ee-M8jkWt7PvhQ8Z6TAfk4Q5n/view?usp=drive_link" target="blank">Resume</a>
+- 📄 Know about my experiences <a href="#" target="blank">Resume</a>
 <br/>
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
