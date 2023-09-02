@@ -9,17 +9,17 @@ Bharat</a></h1>
 
 
 
-- 🌱 I’m currently Working on Ed-tech Application(React-JS)
+- 🌱 I’m currently Working on NetFlixGPT App(React-JS)
 
 - 🤝 I’m available for freelancing.
 
-- 🌱 I’m currently learning Back-end From  <a href="" target="blank">Youtube</a>
+- 🌱 I’m currently learning Express.js From  <a href="" target="blank">PW Skills</a>
 
-- 📝 I regularly write articles on [--]()
+- 📝 I regularly write articles on Hashnode [--]()
 
 - 💬 Ask me about **Vanilla JS & React-JS**
 
-- 📫 How to reach me **bharat.chavhan.edu@gmail.com**
+- 📫 How to reach me **bharat.chavhan.1026@gmail.com**
 
 - 📄 Know about my experiences <a href="https://drive.google.com/file/d/1tDYAAO4ee-M8jkWt7PvhQ8Z6TAfk4Q5n/view?usp=drive_link" target="blank">Resume</a>
 <br/>
@@ -51,4 +51,4 @@ Bharat</a></h1>
 
 Credit: [Bharat Chavhan](https://github.com/iambharatchavhan)
 
-Last Edited on: 23/05/2022
+Last Edited on: 23/08/2023
